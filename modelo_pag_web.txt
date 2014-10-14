@@ -33,6 +33,7 @@ Apellidos: <input type="text" name="apellidos" /><br />
 Dirección: <input type="text" name="direccion" /><br />
 Correo electrónico: <input type="text" name="correo" /><br />
 Teléfono: <input type="text" name="telefono" /><br />
+Observaciones: <input type="text" name="observaciones"/><br>
 </form>
 </div>
 <!-- fin cuerpo -->
