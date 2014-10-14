@@ -44,5 +44,10 @@ Observaciones: <input type="text" name="observaciones"/><br>
 Todos los derechos reservados
 </div>
 </div>
+<TABLE BORDER=1> 
+<TR><TD> 
+<MARQUEE> EVOLUCION DEL SOFTWARE ERICK CUNTI </MARQUEE> 
+</TD></TR> 
+</TABLE>
 </body>
 </html>
